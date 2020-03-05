@@ -1,2 +1,2 @@
 # pradeepgit
-This is for practice purpose.
+This is for practice purpose only.
